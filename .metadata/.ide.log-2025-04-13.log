@@ -1,0 +1,29 @@
+2025-04-14 00:23:05,482 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 284334424 Bytes (838860800)
+2025-04-14 00:23:06,434 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 311071064 Bytes (838860800)
+2025-04-14 00:23:06,571 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 339382616 Bytes (838860800)
+2025-04-14 00:23:06,751 [INFO] ProjectBuilder:2368 - IP not ready for code generation: Clock
+2025-04-14 00:23:09,640 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-04-14 00:23:09,640 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-04-14 00:23:09,641 [INFO] CodeGenerator:882 - code generatio: config db path: C:\ST\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554\\db\
+2025-04-14 00:23:09,680 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\ADMIN\STM32CubeIDE\ws2812_f4_test1\LED_PWM_DMA_Test1\MXTmpFiles\license.tmp_save
+2025-04-14 00:23:09,838 [INFO] CodeEngine:287 - Generated code: C:\Users\ADMIN\STM32CubeIDE\ws2812_f4_test1\LED_PWM_DMA_Test1\MXTmpFiles\license.tmp
+2025-04-14 00:23:09,864 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\ADMIN\STM32CubeIDE\ws2812_f4_test1\LED_PWM_DMA_Test1\Core\Src\stm32f4xx_it.c_save
+2025-04-14 00:23:10,064 [INFO] CodeEngine:287 - Generated code: C:\Users\ADMIN\STM32CubeIDE\ws2812_f4_test1\LED_PWM_DMA_Test1\Core\Src\stm32f4xx_it.c
+2025-04-14 00:23:10,069 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\ADMIN\STM32CubeIDE\ws2812_f4_test1\LED_PWM_DMA_Test1\Core\Inc\stm32f4xx_it.h_save
+2025-04-14 00:23:10,143 [INFO] CodeEngine:287 - Generated code: C:\Users\ADMIN\STM32CubeIDE\ws2812_f4_test1\LED_PWM_DMA_Test1\Core\Inc\stm32f4xx_it.h
+2025-04-14 00:23:10,177 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\ADMIN\STM32CubeIDE\ws2812_f4_test1\LED_PWM_DMA_Test1\Core\Src\stm32f4xx_hal_msp.c_save
+2025-04-14 00:23:10,254 [INFO] CodeEngine:287 - Generated code: C:\Users\ADMIN\STM32CubeIDE\ws2812_f4_test1\LED_PWM_DMA_Test1\Core\Src\stm32f4xx_hal_msp.c
+2025-04-14 00:23:10,257 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\ADMIN\STM32CubeIDE\ws2812_f4_test1\LED_PWM_DMA_Test1\MXTmpFiles\system.tmp_save
+2025-04-14 00:23:10,309 [INFO] CodeEngine:287 - Generated code: C:\Users\ADMIN\STM32CubeIDE\ws2812_f4_test1\LED_PWM_DMA_Test1\MXTmpFiles\system.tmp
+2025-04-14 00:23:10,330 [INFO] CodeEngine:319 - oldGeneratedFile, C:\Users\ADMIN\STM32CubeIDE\ws2812_f4_test1\LED_PWM_DMA_Test1\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-04-14 00:23:10,404 [INFO] CodeEngine:343 - Generated code: C:\Users\ADMIN\STM32CubeIDE\ws2812_f4_test1\LED_PWM_DMA_Test1\Core\Inc\stm32f4xx_hal_conf.h
+2025-04-14 00:23:10,456 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\ADMIN\STM32CubeIDE\ws2812_f4_test1\LED_PWM_DMA_Test1\Core\Inc\main.h_save
+2025-04-14 00:23:10,521 [INFO] CodeEngine:287 - Generated code: C:\Users\ADMIN\STM32CubeIDE\ws2812_f4_test1\LED_PWM_DMA_Test1\Core\Inc\main.h
+2025-04-14 00:23:10,534 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\ADMIN\STM32CubeIDE\ws2812_f4_test1\LED_PWM_DMA_Test1\Core\Src\main.c_save
+2025-04-14 00:23:10,634 [INFO] CodeEngine:287 - Generated code: C:\Users\ADMIN\STM32CubeIDE\ws2812_f4_test1\LED_PWM_DMA_Test1\Core\Src\main.c
+2025-04-14 00:23:10,859 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 126mS.
+2025-04-14 00:23:10,859 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0-B36
+2025-04-14 00:23:10,914 [INFO] ConfigFileManager:1590 - The Die is : DIE413
+2025-04-14 00:23:11,975 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 1116mS.
+2025-04-14 00:23:11,975 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
+2025-04-14 00:23:11,977 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
